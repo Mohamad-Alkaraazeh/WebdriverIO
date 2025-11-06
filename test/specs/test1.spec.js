@@ -9,7 +9,7 @@ describe("Demo Tests,", function () {
     await $('[name="q"]').setValue('WebdriverIO')
   
     // browser.keys('Enter')
-    // this is new commit
+    // this is new coment
     // browser.pause(20000)
 
   });
