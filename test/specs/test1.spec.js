@@ -7,6 +7,8 @@ describe("Demo Tests,", function () {
     browser.url('https://google.com')
 
     await $('[name="q"]').setValue('WebdriverIO')
+    
+    //Coment fron new vs window after clone
 
   });
 });
